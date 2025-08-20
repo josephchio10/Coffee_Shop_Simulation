@@ -1,0 +1,148 @@
+000: Customer 1 arrived.
+000: Customer 1 started service (waited 0 min, will take 7 min).
+003: Customer 2 arrived.
+003: Customer 2 started service (waited 0 min, will take 4 min).
+006: Customer 3 arrived.
+007: Customer 1 finished service (waited 0 min, served 7 min).
+007: Customer 2 finished service (waited 0 min, served 4 min).
+007: Customer 3 started service (waited 1 min, will take 3 min).
+008: Customer 4 arrived.
+008: Customer 4 started service (waited 0 min, will take 4 min).
+010: Customer 5 arrived.
+010: Customer 3 finished service (waited 1 min, served 3 min).
+010: Customer 5 started service (waited 0 min, will take 2 min).
+012: Customer 6 arrived.
+012: Customer 5 finished service (waited 0 min, served 2 min).
+012: Customer 4 finished service (waited 0 min, served 4 min).
+012: Customer 6 started service (waited 0 min, will take 2 min).
+014: Customer 7 arrived.
+014: Customer 6 finished service (waited 0 min, served 2 min).
+014: Customer 7 started service (waited 0 min, will take 2 min).
+016: Customer 8 arrived.
+016: Customer 7 finished service (waited 0 min, served 2 min).
+016: Customer 8 started service (waited 0 min, will take 7 min).
+018: Customer 9 arrived.
+018: Customer 9 started service (waited 0 min, will take 3 min).
+021: Customer 10 arrived.
+021: Customer 9 finished service (waited 0 min, served 3 min).
+021: Customer 10 started service (waited 0 min, will take 7 min).
+023: Customer 11 arrived.
+023: Customer 8 finished service (waited 0 min, served 7 min).
+023: Customer 11 started service (waited 0 min, will take 7 min).
+026: Customer 12 arrived.
+028: Customer 13 arrived.
+028: Customer 10 finished service (waited 0 min, served 7 min).
+028: Customer 12 started service (waited 2 min, will take 5 min).
+030: Customer 11 finished service (waited 0 min, served 7 min).
+030: Customer 13 started service (waited 2 min, will take 2 min).
+031: Customer 14 arrived.
+032: Customer 13 finished service (waited 2 min, served 2 min).
+032: Customer 14 started service (waited 1 min, will take 6 min).
+033: Customer 12 finished service (waited 2 min, served 5 min).
+034: Customer 15 arrived.
+034: Customer 15 started service (waited 0 min, will take 6 min).
+037: Customer 16 arrived.
+038: Customer 14 finished service (waited 1 min, served 6 min).
+038: Customer 16 started service (waited 1 min, will take 5 min).
+040: Customer 17 arrived.
+040: Customer 15 finished service (waited 0 min, served 6 min).
+040: Customer 17 started service (waited 0 min, will take 2 min).
+042: Customer 17 finished service (waited 0 min, served 2 min).
+043: Customer 18 arrived.
+043: Customer 16 finished service (waited 1 min, served 5 min).
+043: Customer 18 started service (waited 0 min, will take 6 min).
+046: Customer 19 arrived.
+046: Customer 19 started service (waited 0 min, will take 4 min).
+048: Customer 20 arrived.
+049: Customer 18 finished service (waited 0 min, served 6 min).
+049: Customer 20 started service (waited 1 min, will take 6 min).
+050: Customer 21 arrived.
+050: Customer 19 finished service (waited 0 min, served 4 min).
+050: Customer 21 started service (waited 0 min, will take 4 min).
+052: Customer 22 arrived.
+054: Customer 21 finished service (waited 0 min, served 4 min).
+054: Customer 22 started service (waited 2 min, will take 6 min).
+055: Customer 23 arrived.
+055: Customer 20 finished service (waited 1 min, served 6 min).
+055: Customer 23 started service (waited 0 min, will take 7 min).
+057: Customer 24 arrived.
+059: Customer 25 arrived.
+060: Customer 22 finished service (waited 2 min, served 6 min).
+060: Customer 24 started service (waited 3 min, will take 5 min).
+061: Customer 26 arrived.
+062: Customer 23 finished service (waited 0 min, served 7 min).
+062: Customer 25 started service (waited 3 min, will take 7 min).
+065: Customer 24 finished service (waited 3 min, served 5 min).
+065: Customer 26 started service (waited 4 min, will take 6 min).
+067: Customer 27 arrived.
+069: Customer 25 finished service (waited 3 min, served 7 min).
+069: Customer 27 started service (waited 2 min, will take 7 min).
+071: Customer 28 arrived.
+071: Customer 26 finished service (waited 4 min, served 6 min).
+071: Customer 28 started service (waited 0 min, will take 2 min).
+073: Customer 28 finished service (waited 0 min, served 2 min).
+076: Customer 29 arrived.
+076: Customer 27 finished service (waited 2 min, served 7 min).
+076: Customer 29 started service (waited 0 min, will take 2 min).
+078: Customer 29 finished service (waited 0 min, served 2 min).
+081: Customer 30 arrived.
+081: Customer 30 started service (waited 0 min, will take 7 min).
+085: Customer 31 arrived.
+085: Customer 31 started service (waited 0 min, will take 7 min).
+088: Customer 30 finished service (waited 0 min, served 7 min).
+089: Customer 32 arrived.
+089: Customer 32 started service (waited 0 min, will take 5 min).
+092: Customer 31 finished service (waited 0 min, served 7 min).
+093: Customer 33 arrived.
+093: Customer 33 started service (waited 0 min, will take 2 min).
+094: Customer 32 finished service (waited 0 min, served 5 min).
+095: Customer 33 finished service (waited 0 min, served 2 min).
+097: Customer 34 arrived.
+097: Customer 34 started service (waited 0 min, will take 5 min).
+102: Customer 34 finished service (waited 0 min, served 5 min).
+103: Customer 35 arrived.
+103: Customer 35 started service (waited 0 min, will take 4 min).
+107: Customer 35 finished service (waited 0 min, served 4 min).
+109: Customer 36 arrived.
+109: Customer 36 started service (waited 0 min, will take 2 min).
+111: Customer 36 finished service (waited 0 min, served 2 min).
+115: Customer 37 arrived.
+115: Customer 37 started service (waited 0 min, will take 4 min).
+119: Customer 37 finished service (waited 0 min, served 4 min).
+121: Customer 38 arrived.
+121: Customer 38 started service (waited 0 min, will take 4 min).
+125: Customer 38 finished service (waited 0 min, served 4 min).
+126: Customer 39 arrived.
+126: Customer 39 started service (waited 0 min, will take 6 min).
+130: Customer 40 arrived.
+130: Customer 40 started service (waited 0 min, will take 6 min).
+132: Customer 39 finished service (waited 0 min, served 6 min).
+136: Customer 41 arrived.
+136: Customer 40 finished service (waited 0 min, served 6 min).
+136: Customer 41 started service (waited 0 min, will take 5 min).
+141: Customer 42 arrived.
+141: Customer 41 finished service (waited 0 min, served 5 min).
+141: Customer 42 started service (waited 0 min, will take 5 min).
+145: Customer 43 arrived.
+145: Customer 43 started service (waited 0 min, will take 6 min).
+146: Customer 42 finished service (waited 0 min, served 5 min).
+151: Customer 44 arrived.
+151: Customer 43 finished service (waited 0 min, served 6 min).
+151: Customer 44 started service (waited 0 min, will take 7 min).
+155: Customer 45 arrived.
+155: Customer 45 started service (waited 0 min, will take 5 min).
+158: Customer 44 finished service (waited 0 min, served 7 min).
+159: Customer 46 arrived.
+159: Customer 46 started service (waited 0 min, will take 5 min).
+160: Customer 45 finished service (waited 0 min, served 5 min).
+164: Customer 46 finished service (waited 0 min, served 5 min).
+165: Customer 47 arrived.
+165: Customer 47 started service (waited 0 min, will take 2 min).
+167: Customer 47 finished service (waited 0 min, served 2 min).
+171: Customer 48 arrived.
+171: Customer 48 started service (waited 0 min, will take 6 min).
+175: Customer 49 arrived.
+175: Customer 49 started service (waited 0 min, will take 3 min).
+177: Customer 48 finished service (waited 0 min, served 6 min).
+178: Customer 49 finished service (waited 0 min, served 3 min).
+180: Simulation ended.
